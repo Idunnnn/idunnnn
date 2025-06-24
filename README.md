@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, Im Farid Al mudzakir</h3>
+<h2 align="left">👋 Hi, Im Farid Al mudzakir</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">💼 About Me</h3>
+<h2 align="left">💼 About Me</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">🔗 Connect with Me</h3>
+<h2 align="left">🔗 Connect with Me</h2>
 
 ###
 
@@ -78,7 +78,7 @@
 
 ###
 
-<h3 align="left">📈 GitHub Stats</h3>
+<h2 align="left">📈 GitHub Stats</h2>
 
 ###
 
