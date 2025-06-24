@@ -70,7 +70,7 @@
 
 ###
 
-<h2 align="left" style="color:#39FF14;">📈 GitHub Stats</h2>
+<h2 align="left">📈 GitHub Stats</h2>
 
 ###
 
@@ -79,6 +79,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Idunnnn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Idunnnn&theme=discord&column=6&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+
 ###
 
 <picture>
@@ -86,3 +87,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Idunnnn/Idunnnn/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Idunnnn/Idunnnn/output/pacman-contribution-graph.svg">
 </picture>
+
+###
