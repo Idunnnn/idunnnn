@@ -8,21 +8,16 @@
 
 <h2 align="left">💼 About Me</h2>
 
-###
-
-<p align="left">🚀 I'm currently working as Front-End Engineer</p>
-
-###
-
-<p align="left">🌱 I'm currently learning: Docker, Prisma, Next.js</p>
-
-###
-
-<p align="left">🎯 Interests: Front-End And Back-End Engineering, and Mobile Applications.</p>
-
-###
-
-<p align="left">💡 Motto: "Every line of code is a step toward solving real-world problems."</p>
+- 🚀 I'm currently working as **Front-End Engineer**
+- 🌱 I'm currently learning:
+  - Docker
+  - Prisma
+  - Next.js
+- 🎯 Interests:
+  - Front-End Engineering
+  - Back-End Engineering
+  - Mobile Applications
+- 💡 Motto: *"Every line of code is a step toward solving real-world problems."*
 
 ###
 
@@ -34,7 +29,7 @@
   <a href="https://www.linkedin.com/in/farid-al-mudzakir-418871351/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="faridzakir9@gmail.com" target="_blank">
+  <a href="mailto:faridzakir9@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/mr.mobby_/" target="_blank">
