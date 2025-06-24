@@ -1,4 +1,9 @@
-## Hi there 👋
+##👋 Hi, Im Farid Al mudzakir
+
+Welcome to my GitHub profile! I’m a passionate developer with a deep interest in **web development**, **mobile development**, and **modern technologies**. I strive to build impactful solutions that combine clean code, intuitive design, and meaningful user experiences.
+
+## 💼 About Me
+
 
 <!--
 **Idunnnn/idunnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
