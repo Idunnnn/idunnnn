@@ -9,14 +9,8 @@
 <h2 align="left">💼 About Me</h2>
 
 - 🚀 I'm currently working as **Front-End Engineer**
-- 🌱 I'm currently learning:
-  - Docker
-  - Prisma
-  - Next.js
-- 🎯 Interests:
-  - Front-End Engineering
-  - Back-End Engineering
-  - Mobile Applications
+- 🌱 I'm currently learning: Docker, Prisma, Next.js
+- 🎯 Interests: Front-End Engineering, Back-End Engineering, Mobile Applications
 - 💡 Motto: *"Every line of code is a step toward solving real-world problems."*
 
 ###
